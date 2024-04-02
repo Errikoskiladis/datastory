@@ -17,15 +17,15 @@ Stolen property offenses involve the possession, receipt, or sale of items obtai
 
 ![Occurances of Crimes](Assets/occurances_of_crimes.png)
 
-*Caption: Description for crimes in general*
+*Caption: Crimes and Time Patterns*
 
 ![Driving Under Influence](Assets/calendar.png)
 
-*Caption: Description for driving under influence*
+*Caption: Calendar plot*
 
 ![Map](Assets/map_2.png)
 
-*Caption: Description for Map*
+*Caption: Crime map*
 
 ## Conclusion:
 
