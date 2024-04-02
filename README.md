@@ -42,10 +42,4 @@ Blabla bla
 
 - [Markdown Guide](https://www.markdownguide.org)
 
-## Citation
 
-[Doe, J. (2020). The Importance of Lorem Ipsum.)^1]
-
-## Text with citation
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et lorem in neque tincidunt gravida sit amet id nulla [^1].
