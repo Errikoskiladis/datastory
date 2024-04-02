@@ -36,9 +36,11 @@ Blabla bla
 
 ## Links
 
-- [OpenAI](https://openai.com)
+- [SF Police Department - Crime Dashboard](https://www.sanfranciscopolice.org/stay-safe/crime-data/crime-dashboard)
 
-- [Markdown Guide](https://www.markdownguide.org)
+- [Violent Crime and Property Crime](https://sfgov.org/scorecards/public-safety/violent-crime-rate-and-property-crime-rate)
+
+- [CNN Article](https://edition.cnn.com/2023/05/03/politics/san-francisco-crime-rate-what-matters/index.html)
 
 ## Citation
 [Doe, J. (2020). The Importance of Lorem Ipsum.)^1]
