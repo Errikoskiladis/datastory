@@ -1,6 +1,12 @@
-# Document Title
+# Unveiling Urban Trends
 
-## Photos and their caption
+## Data Analytics Illuminate Crime Records in San Francisco
+
+### Introduction
+
+Blabla bla
+
+### Visualizations
 
 ![Driving Under Influence](Assets/driving_under_influence.png)
 
@@ -30,7 +36,6 @@
 
 - Bullet point 3
 
-- [20:44] Errikos Kiladis
 ## Links
 
 - [OpenAI](https://openai.com)
